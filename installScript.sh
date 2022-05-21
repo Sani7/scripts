@@ -71,11 +71,13 @@ scribus \
 sed \
 snap \
 solaar \
+sound-juicer \
 spotify-tui \
 steam \
 terminator \
 texlive* \
 texmaker \
+thunderbird \
 transmission \
 tuxmath \
 unzip \
@@ -85,4 +87,24 @@ vim-enhanced \
 virt-manager \
 vlc \
 vym \
-winetricks \
+winetricks
+
+flatpak install \
+-y \
+com.axosoft.GitKraken \
+com.frac_tion.teleport \
+com.github.debauchee.barrier \
+com.github.micahflee.torbrowser-launcher \
+com.giuspen.cherrytree \
+com.mojang.Minecraft \
+com.play0ad.zeroad \
+com.spotify.Client \
+com.stremio.Stremio \
+com.viber.Viber \
+io.github.arunsivaramanneo.GPUViewer \
+net.jami.Jami \
+org.coolero.Coolero \
+org.fedoraproject.MediaWriter \
+org.signal.Signal \
+re.sonny.Tangram\
+us.zoom.Zoom
