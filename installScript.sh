@@ -57,6 +57,7 @@ ktimetracker \
 lutris \
 make \
 mediawriter \
+ncdu \
 nudoku \
 obs-stydio \
 octave \
