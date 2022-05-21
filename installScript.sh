@@ -109,3 +109,5 @@ org.fedoraproject.MediaWriter \
 org.signal.Signal \
 re.sonny.Tangram\
 us.zoom.Zoom
+
+pip install powerline-shell
