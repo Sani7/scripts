@@ -50,6 +50,7 @@ inkscape \
 java-latest-openjdk \
 java-latest-openjdk-devel \
 java-latest-openjdk-headless \
+kblocks \
 kdenlive \
 kicad \
 krita \
