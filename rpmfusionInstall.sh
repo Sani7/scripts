@@ -7,4 +7,4 @@ dnf groupupdate sound-and-video -y
 dnf install rpmfusion-free-release-tainted -y
 dnf install libdvdcss -y
 dnf install rpmfusion-nonfree-release-tainted -y
-dnf install \*-firmware -y
+#dnf install \*-firmware -y
